@@ -1,4 +1,4 @@
-#Resume Application Tracking System with GeminiPro: Gemini LLM 
+Resume Application Tracking System with GeminiPro: Gemini LLM 
 
 ## Project Overview
 
